@@ -34,7 +34,7 @@ main {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .6)), url(images/new.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .6)), url(Images/new.jpg);
 
 
 }
@@ -114,7 +114,7 @@ ul li a:hover {
     position: relative;
     hyphenate-character: 100%;
     min-height: 560px;
-    background-image: url(images/gallery-6.jpg);
+    background-image: url(Images/gallery-6.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
